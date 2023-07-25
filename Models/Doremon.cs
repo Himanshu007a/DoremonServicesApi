@@ -11,7 +11,7 @@
 
         public ICollection<DoremonOwner> DoremonOwners { get; set; }
 
-        public ICollection<DoremonCategory> DoremonCategory { get; set; }
+        public ICollection<DoremonCategory> DoremonCategories { get; set; }
 
     }
 }
